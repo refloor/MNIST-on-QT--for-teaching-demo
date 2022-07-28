@@ -7,9 +7,9 @@
 
 # Program Performance
 
-![image-20220728143031522](README.assets/image-20220728143031522.png)
+![digit 1](README.assets/digit 1.png)
 
-![image-20220728143056963](README.assets/image-20220728143056963.png)
+![digit 1](README.assets/digit 8.png)
 
 # CNN model
 
