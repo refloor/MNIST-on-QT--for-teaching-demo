@@ -7,9 +7,9 @@
 
 # Program Performance
 
-![digit 1](https://github.com/refloor/MNIST-on-QT--for-teaching-demo/blob/main/README.assets/digit%201.png)
+![image](https://github.com/refloor/MNIST-on-QT--for-teaching-demo/blob/main/README.assets/digit%201.png)
 
-![digit 1](https://github.com/refloor/MNIST-on-QT--for-teaching-demo/blob/main/README.assets/digit%208.png)
+![image](https://github.com/refloor/MNIST-on-QT--for-teaching-demo/blob/main/README.assets/digit%208.png)
 
 # CNN model
 
